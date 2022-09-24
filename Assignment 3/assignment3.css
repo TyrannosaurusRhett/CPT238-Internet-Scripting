@@ -1,0 +1,41 @@
+body{
+	background-color: rgb(210, 180, 140); /*tan*/
+}
+div{
+	font-size: 20pt;
+}
+table{
+	width: 400px;
+}
+div ol{
+	font-family: Arial, sans-serif;
+}
+div ol li:first-child{
+	color: rgb(255, 0, 0); /*red*/
+}
+div ol li:last-child{
+	color: rgb(0, 0, 255); /*blue*/
+}
+div ol li:nth-child(4){
+	color: rgb(0, 128, 0); /*green*/
+}
+div ol li:not(:nth-child(5)){
+	font-style: italic;
+}
+ul{
+	list-style: none;
+}
+.courses{
+	background-color: rgb(0, 128, 0); /*green*/
+}
+.enclose{
+	width: 500px;
+	border: 3px solid rgb(255, 0, 0); /*red*/
+}
+.header{
+	background-color: rgb(0, 0, 139); /*dark blue*/
+	color: white;
+}
+.altrow{
+	background-color: rgb(128, 128, 128); /*gray*/
+}
