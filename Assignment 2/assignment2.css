@@ -1,0 +1,17 @@
+Body{
+	background-color: gray;
+}
+.Christmas{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 28pt;
+	color: red;
+	background-color: green;
+}
+.Easter{
+	font-family: Times, serif;
+	font-style: italic;
+	font-size: 28pt;
+	color: pink;
+	background-color: purple;
+}
