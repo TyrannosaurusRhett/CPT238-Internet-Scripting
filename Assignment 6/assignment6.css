@@ -1,0 +1,20 @@
+body{
+	background: linear-gradient(white,green);
+	font-family: Arial, sans-serif;
+}
+#create{
+	font-size: 24px;
+	width: 250px;
+	height: 40px;
+	padding-left: 10px;
+	padding-top: 8px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+h2{
+	font-size: 20px;
+}
+.errMsg{
+	color: red;
+}
